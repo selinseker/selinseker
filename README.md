@@ -6,7 +6,7 @@
 
 [![Medium](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/yahabibikedi)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@selin_seker)
-[![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:selinseker001@gmail.com)](mailto:selinseker001@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-selinseker001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:selinseker001@gmail.com)](mailto:selinseker001@gmail.com)
 
 <br />
 
