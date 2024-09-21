@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW92bjNpcXJtNjRva20wdW1ncGd4M2NqYTFyeDE4Y21rM244dDlseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW92bjNpcXJtNjRva20wdW1ncGd4M2NqYTFyeDE4Y21rM244dDlseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="420" height="280"/>
 </div>
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Selin Seker
 
 [![Medium](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/yahabibikedi)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@selin_seker)
-[![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuchimoliver779@gmail.com)](mailto:selinseker001@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:selinseker001@gmail.com)](mailto:selinseker001@gmail.com)
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+iOS+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+iOS+Developer!;Computer+Engineer;)](https://git.io/typing-svg)
 
 :woman_technologist: Hi! I’m Selin Şeker, a Computer Engineer and iOS developer.</br>
 :iphone: I’m passionate about iOS development and enjoy creating apps with Swift UI and Storyboard, writing clean code using the MVVM pattern. And I’m skilled in writing and using APIs, with knowledge of DevOps processes.</br>
