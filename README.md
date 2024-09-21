@@ -32,5 +32,5 @@
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase)
-![Firestore](https://img.shields.io/badge/-Firestore-blue?style=flat-square&logo=firebase)
+![REST API](https://img.shields.io/badge/-REST%20API-67C3F2?style=flat-square)
 
